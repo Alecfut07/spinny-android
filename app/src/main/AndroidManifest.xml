@@ -3,6 +3,7 @@
     package="com.alexiscrack3.spinny">
 
     <application
+        android:name=".SpinnyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
