@@ -1,7 +1,7 @@
 package com.alexiscrack3.spinny.login
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.alexiscrack3.spinny.R
 
 class LoginActivity : AppCompatActivity() {
